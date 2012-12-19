@@ -1,0 +1,6 @@
+[submodule "composite"]
+	path = composite
+	url = git@github.com:django-composite/django-composite.git
+[submodule "admin"]
+	path = admin
+	url = git@github.com:django-composite/django-composite-admin.git
