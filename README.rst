@@ -14,4 +14,7 @@ If you want to work on django-composite but doesn't have commit rights, you can:
 
 
 ::
-  git clone git@github.com:django-composite/forge.git
+  git clone git@github.com:django-composite/forge.git composite-forge
+  cd composite-forge
+  git submodule init
+  git submodule update
