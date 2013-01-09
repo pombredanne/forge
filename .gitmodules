@@ -4,3 +4,6 @@
 [submodule "admin"]
 	path = admin
 	url = git@github.com:django-composite/django-composite-admin.git
+[submodule "admin"]
+	path = public
+	url = git@github.com:django-composite/public-forge.git
