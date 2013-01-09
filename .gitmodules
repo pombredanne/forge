@@ -7,3 +7,6 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:django-composite/public-forge.git
+[submodule "example-app"]
+	path = example-app
+	url = git@github.com:django-composite/example-app.git
