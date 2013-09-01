@@ -7,6 +7,3 @@
 [submodule "example-app"]
 	path = example-app
 	url = git@github.com:django-composite/example-app.git
-[submodule "tests-assistant"]
-	path = tests-assistant
-	url = git@github.com:django-composite/tests-assistant.git
